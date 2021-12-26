@@ -1,5 +1,5 @@
 # UI-UX-team-projects
-UI-UX team projects done during the month of dec 2021 assigned to us by IEEE club , MJ College.
+UI-UX team projects done during the month of Dec 2021 assigned to us by IEEE club , MJ College.
 Files include screenshot of the projects done and a powerpoint presentation that explains the month long work done.
 
 To access our projects please use the links below
